@@ -1,3 +1,3 @@
 # BMS4EEG: Coming Soon
 
-This repository is still under construction. Please check back in January 2018.
+Thank you for your interest in these scripts! The scripts will be released here for public use by January 2018; please check back then. To request earlier access to the scripts, please email clare.harris@uqconnect.edu.au.
